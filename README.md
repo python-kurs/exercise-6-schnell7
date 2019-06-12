@@ -1,9 +1,7 @@
 # Exercise 6 (10P)
 
 1. Clone this repository to your local machine
-2. Complete this assignment using the knowledge you obtained in the first five course units.
-
-   Use the `main.py` file for all the code which does the actual work.
+2. Use the `main.py` file for all the code which does the actual work.
 
    Put all functions you create and might want to reuse later in the `utils.py` file and import them in `main.py`
 
