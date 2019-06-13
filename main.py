@@ -15,5 +15,4 @@ input_dir  = Path("data")
 #      - projection x/y coordinates of lower left: -15E5
 #      - projection x/y coordinates of upper right: 15E5 
 
-# 4. Plot the resampled Scene on your screen in both loaded composites. [2P]
-#    You don't have to save the images.
+# 4. Save both loaded composites of the resampled Scene as simple png images. [2P]
